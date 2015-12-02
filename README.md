@@ -38,3 +38,5 @@ In the previous reading we surveyed the layout of Xcode's tools. For this first 
 ![](https://curriculum-content.s3.amazonaws.com/ios/ios-your-first-NSLog/your-first-nslog-screenshot.png)
 
 **Note:** *The spot in the code you were directed to add your* `NSLog()` *is the standard override point in the* `FISAppDelegate` *at application launch. We'll explain more of what the means later, but just remember that if you're directed to write code in the* `FISAppDelegate`, *it will likely be in this spot.*
+
+<a href='https://learn.co/lessons/ios-your-first-NSLog' data-visibility='hidden'>View this lesson on Learn.co</a>
