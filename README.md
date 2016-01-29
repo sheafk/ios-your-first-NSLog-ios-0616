@@ -39,4 +39,4 @@ In the previous reading we surveyed the layout of Xcode's tools. For this first 
 
 **Note:** *The spot in the code you were directed to add your* `NSLog()` *is the standard override point in the* `FISAppDelegate` *at application launch. We'll explain more of what the means later, but just remember that if you're directed to write code in the* `FISAppDelegate`, *it will likely be in this spot.*
 
-<a href='https://learn.co/lessons/ios-your-first-NSLog' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/ios-your-first-NSLog' title='Your First NSLog()'>Your First NSLog()</a> on Learn.co and start learning to code for free.</p>
